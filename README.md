@@ -8,7 +8,7 @@ Simple webscraper project that produces a pandas dataframe for the **[UC Irvine 
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/) - Framework used for deployment 
 - [Pandas](https://pandas.pydata.org/) - A data analysis library
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL Toolkit
-- [Flask-SqlAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) - Flask extension with SQL support
+- [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) - Flask extension with SQL support
 - [Selenium](https://selenium-python.readthedocs.io/) - Webdriver for data sampling
 
 
